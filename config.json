@@ -1,0 +1,59 @@
+{
+  "openai_api_key": "MsLKuIK8jzkPK48ES1F0SYLs557tUyHmamiGYlfogNkNVG4P6tYJ5-_Zunb68tiC0DmjOLnBhcT3BlbkFJC3eSItKoIbi18i6-iMngQqiBKB5qbaoTDrMSZt8FzQdxJwF1NBlVAR2N6UGzBe-L5RtNmtalgA",
+
+  "rss_feeds": [
+    {
+      "name": "TechCrunch AI",
+      "url": "https://techcrunch.com/tag/artificial-intelligence/feed",
+      "limit": 10
+    },
+    {
+      "name": "MIT Tech Review AI",
+      "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "limit": 10
+    },
+    {
+      "name": "OpenAI Blog",
+      "url": "https://openai.com/blog/rss.xml",
+      "limit": 10
+    },
+    {
+      "name": "DeepMind Blog",
+      "url": "https://deepmind.com/blog/feed/basic/",
+      "limit": 10
+    }
+  ],
+
+  "youtube": {
+    "api_key": "AIzaSyCzAhxaQ3xB31GOr9r2SU0m0wSxx9804-Y",
+    "channel_ids": [
+      "UCfzlCWGWYyIQ0aLC5w48gBQ",  // Lex Fridman
+      "UCMtHeZ7z3AcnpRzYwVdQEMA"   // Two Minute Papers
+    ],
+    "max_results": 5
+  },
+
+  "twitter": {
+    "usernames": [
+      "sama",
+      "demishassabis",
+      "elonmusk",
+      "ylecun",
+      "garymarcus"
+    ],
+    "max_results": 5
+  },
+
+  "reddit": {
+    "client_id": "0FRpLRQpHi18MPWoCXm1PQ",
+    "client_secret": "EZeNgWLhbzDOC36Z6_i3TzL52YD9sw",
+    "subreddits": [
+      "MachineLearning",
+      "ArtificialInteligence",
+      "OpenAI"
+    ],
+    "max_results": 5
+  },
+
+  "arxiv": true
+}
